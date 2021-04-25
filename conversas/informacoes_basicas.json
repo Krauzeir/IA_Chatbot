@@ -1,0 +1,33 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["O que é MySalesHub?","O que seria a MySalesHub?","Me explica a MySalesHub"],
+            "respostas": "Somos um conjunto de empresas especializadas em vendas. Oferecemos soluções focadas em otimizar seu processo comercial - independente do seu estágio"
+        },
+        {
+            "mensagens": ["Quais soluções vocês oferecem?","Com o que vocês trabalham?","Trabalham com o que?"],
+            "respostas": "Oferecemos um conjunto de soluções focadas no Outbound & Inbound Marketing. Nossas soluções são: MyChat, MyClosers, Leads2Meet, MyList, MySales Team, MyLeads, MyInsight Center. Qual seria a solução de seu interesse?"
+        },
+        {
+            "mensagens": ["Quais empresas vocês atendem?","Quem são seus clientes?"],
+            "respostas": "Já trabalhamos com diversos segmentos, alguns são: Sodexo, Olist, Faber Castel, BlackBoard, Echos . Mas pode dar uma olhadinha em nossos clientes clicando na parte superior do site (https://mysaleshub.tech/)."
+        },
+        {
+            "mensagens": ["Como posso marcar uma reunião com vocês?","Como agendar uma reunião?"],
+            "respostas": "Para agendar uma reunião, basta acessar este link https://www.mychatbrasil.com/Reuniao e marcar o melhor horário para você e nossa CEO, Luisa: https://www.mychatbrasil.com/Reuniao"
+        },
+        {
+            "mensagens": ["Qual o valor da solução de vocês?","Quais os planos de vocês?","Quais os valores?"],
+            "respostas": "Possuímos planos customizados. Antes de falarmos de valores, preferimos conversar contigo para entender como está o estágio de sua equipe de vendas ou campanhas para lhe oferecer a solução que traga mais retorno. Por isso o ideal é que marque uma reunião conosco"
+        },
+        {
+            "mensagens": ["Quem são as CEOs do MySalesHub?","Quais CEOs do MySalesHub?"],
+            "respostas": "A MySalesHub é um Hub de soluções de marketing na qual possui 2 CEOs: Luisa e Helena"
+        }
+    ]
+}
+
+
+
+
+

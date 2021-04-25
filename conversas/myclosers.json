@@ -1,0 +1,16 @@
+{
+    "conversas" : [
+        {
+            "mensagens": ["Como funciona a MyClosers?","O que é a MyClosers?"],
+            "respostas": "Fornecemos vendedores que realizarão um treinamento interno com a sua empresa e utilizarão a nossa metodologia de fechamento entregando o cliente na sua porta!"
+        },
+        {
+            "mensagens": ["Quanto custa o serviço da MyClosers?","Qual o valor do plano do serviço da MyClosers?"],
+            "respostas": "Antes de tratarmos de valores, precisamos primeiro entender qual será seu foco de prospecção e após uma conversa detalhada podemos passar uma estimativa de valor. O ideal seria uma reunião conosco"
+        },
+        {
+            "mensagens": ["Quem é o CEO da MyClosers?","Qual o CEO da MyClosers?"],
+            "respostas": "A CEO da MyClosers é a Helena"
+        }
+    ]
+}

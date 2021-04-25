@@ -1,0 +1,28 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["olá","oi"],
+            "respostas": "Olá, sou o robô de atendimento da MySalesHub. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["bom dia"],
+            "respostas": "Bom dia! Sou o robô de atendimento da MySalesHub. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "respostas": "Boa tarde! Sou o robô de atendimento da MySalesHub. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "respostas": "Boa noite! Sou o robô de atendimento da MySalesHub. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["tudo bem?"],
+            "respostas": "Tudo ótimo e contigo? Sou o robô de atendimento da MySalesHub."
+        },
+        {
+            "mensagens": ["tudo sim"],
+            "respostas": "Excelente. Como posso te ajudar?"
+        }
+    ]
+}

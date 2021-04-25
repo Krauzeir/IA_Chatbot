@@ -1,0 +1,16 @@
+{
+    "conversas" : [
+        {
+            "mensagens": ["Como funciona a MyChat?","O que é a MyChat?"],
+            "respostas": "Nosso time de seres humanos vai recepcionar seus visitantes fortalecendo a sua marcar e caso estejam qualificados serão transformados em leads e enviados em tempo real para o seu time de vendas!"
+        },
+        {
+            "mensagens": ["Quanto custa o serviço da MyChat?","Qual o valor do plano do serviço da MyChat?"],
+            "respostas": "O valor de nossa solução é baseada na quantidade de leads capturadas com o nosso chat no mês. Possuímos um plano inicial de R$399,00 para 30 leads mensais. Demais planos, o ideal é que entre em contato conosco para uma reunião"
+        },
+        {
+            "mensagens": ["Quem é o CEO da MyChat?","Qual o CEO da MyChat?"],
+            "respostas": "A CEO da MyChat é a Luisa Coelho Cruz"
+        }
+    ]
+}
